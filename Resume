@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume - Danielle Zabielski</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>Danielle Zabielski</h1>
+  <h3> Address - City, State, Zip - (###) ###-#### - E-mail</h3>
+
+  <h2>Education</h2>
+  <h3>Scranton Preparatory School</h3><p>August 2009 - May 2013</p>
+  <h3>Saint Joseph's University</h3><p>August 2013 - present</p>
+
+  <h2>Work Experience</h2>
+  <h3>Game Entertainment/Promotions</h3>
+  <p><em>Scranton/Wilkes-Barre RailRiders</em> - organized promotional materials, conducted in-game activities between innings on baseball field, provided prizes/promotional materials to winners/crowd members</p>
+  <h3>Reception</h3>
+  <p><em>Saint Joseph's University Writing Center</em> - scheduled/cancelled appointments for students, organized tutoring schedule, answered phones, restocked tea/mints</p>
+</body>
+</html>
