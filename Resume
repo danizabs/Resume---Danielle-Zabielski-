@@ -13,9 +13,19 @@
     margin-left: 50%;
   }
 
+  #lastName {
+    color: cadetblue;
+  }
+
+  #contact {
+    display: inline-block;
+    line-height: 5%;
+  }
+
   h1 {
-    font-family: arial;
+    font-family: Tahoma, Geneva, sans-serif;
     font-size: 45px;
+    display: inline-block;
   }
   h2 {
     font-family: sans-serif;
@@ -24,8 +34,11 @@
   h3 {
     color: black;
     font-weight: bold;
+    font-size: larger;
     font-family: sans-serif;
+    display: inline-block;
   }
+
   ul {
     font-family: sans-serif;
   }
@@ -33,14 +46,19 @@
     font-size: 16px;
     font-family: sans-serif;
   }
+  strong {
+    font-family: sans-serif;
+  }
 </style>
 </head>
 
 <body>
 <section id="content">
-  <h1>danielle zabielski</h1>
+  <h1>danielle<section id="lastName">zabielski</section></h1>
+<section id="contact">
   <h3>phone</h3><p>(###) ###-####</p>
   <h3>e-mail</h3><p>paulmccartney@beatles.com</p>
+</section>
 
   <h2>education</h2>
   <p><strong>Scranton Preparatory School,</strong> August 2009 - May 2013</p>
@@ -58,10 +76,27 @@
   <p><strong>Appalachian Experience Program,</strong> March 2015</p>
   <p><strong>Writer, <em>The Hawk Newspaper,</em></strong> October 2013 - present</p>
 </section>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
 <section id="moreContent">
   <h2>work experience</h2>
-  <p><strong>Game Entertainment/Promotions, <em>Scranton/Wilkes-Barre RailRiders</em></strong> - organized promotional materials, conducted in-game activities between innings on baseball field, provided prizes/promotional materials to winners/crowd members</p>
-  <p><strong>Reception, <em>Saint Joseph's University Writing Center</em></strong> - scheduled/cancelled appointments for students, organized tutoring schedule, answered phones, restocked tea/mints</p>
+  <strong>Game Entertainment/Promotions, <em>Scranton/Wilkes-Barre RailRiders</em></strong>
+  <ul>
+    <li>organized promotional materials</li>
+    <li>conducted in-game activities between innings on baseball field</li>
+    <li>provided prizes/promotional materials to winners/crowd members</li>
+  </ul>
+  <strong>Reception, <em>Saint Joseph's University Writing Center</em></strong>
+  <ul>
+    <li>scheduled/cancelled appointments for students</li>
+    <li>organized tutoring schedule</li>
+    <li>answered phones</li>
+    <li>restocked tea/mints</li>
+  </ul>
 
   <h2>skills</h2>
   <p>Public speaking,  proficient with PowerPoint and other Microsoft tools, photography (digital and analog), Photoshop
