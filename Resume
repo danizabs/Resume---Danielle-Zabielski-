@@ -38,6 +38,7 @@
     font-size: larger;
     font-family: sans-serif;
     display: inline-block;
+    line-height: 10%;
   }
 
   ul {
